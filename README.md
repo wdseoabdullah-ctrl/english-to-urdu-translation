@@ -32,4 +32,4 @@ This app provides users with two main options:
 ## 📥 Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/english-to-urdu-translator](https://github.com/wdseoabdullah-ctrl/english-to-urdu-translation).git
+   git clone https://github.com/wdseoabdullah-ctrl/english-to-urdu-translation.git
