@@ -3,7 +3,7 @@
 A simple, fast, and user-friendly web application that helps users quickly access English to Urdu translation tools.
 
 ## 🌐 Live Demo
-https://wdseoabdullah-ctrl.github.io/english-to-urdu-translator/
+[https://wdseoabdullah-ctrl.github.io/english-to-urdu-translator/](https://github.com/wdseoabdullah-ctrl/english-to-urdu-translation)
 
 ## 📌 Features
 - Clean and responsive design
